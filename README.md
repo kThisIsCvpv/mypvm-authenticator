@@ -1,3 +1,5 @@
+This repository is not affiliated with OpenOSRS, Runelite or Jagex in any way.
+
 # Installation Instructions
 
 1. Open ``External Plugin Manager``.
